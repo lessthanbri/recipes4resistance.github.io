@@ -25,7 +25,8 @@ We draw from the cultural tradition of "kitchen table talks" which designate the
 
 ## Hosts and Guest Hosts
 
-### Host: Briana Bettin
+### Host: [Briana Bettin](https://pages.mtu.edu/~bcbettin/)
+Briana (she) is an assistant professor of computer science and cognitive and learning sciences at Michigan Technological University. Her research interests center and weave together computing education, user experience, and sociotechnical design and impacts, all stemming from a desire to explore how we can learn to better live within, work with, (re)imagine with, and be represented equitably within digital landscapes and our increasingly technological society/world. 
 
 ### Host: [Victoria C. Ch&aacute;vez](http://vickiebananas.com)
 Victoria (they/she) is a Joint PhD student in the Computer Science + Learning Sciences Program at Northwestern University. Their research interests stem from asking "How can we make computer science a safe and joyous experience for Black, Disabled, Indigenous, and Latine/x college students?". Victoria is also broadly interested in issues of accessibility, civic tech, equity, and social justice.
